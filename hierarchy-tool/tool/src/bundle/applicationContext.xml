@@ -6,6 +6,6 @@
 	<!-- webapp.xml used in Test class to configure context-->
 	<import resource="webapp.xml"/>
 	<!--HierarchyEntityProviderImpl bean defined in separate xml as no Tests written for it -->
-	<import resource="entityprovider.xml"/>
+	<import resource="entityProvider.xml"/>
 
 </beans>
